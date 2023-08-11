@@ -1,0 +1,5 @@
+stepdefinitions/RegisterTest.class
+runner/TestRunner.class
+base/DriverManager.class
+stepdefinitions/LoginTest.class
+hooks/Hooks.class

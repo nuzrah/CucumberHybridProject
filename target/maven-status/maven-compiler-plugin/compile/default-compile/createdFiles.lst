@@ -1,0 +1,6 @@
+pages/LoginModal.class
+utils/ElementUtils.class
+utils/PropertyReader.class
+pages/RegisterModal.class
+pages/HomePage.class
+utils/CommonUtils.class
