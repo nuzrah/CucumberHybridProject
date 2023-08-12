@@ -16,7 +16,7 @@ import org.testng.annotations.Test;
         //, tags = "@all" //run all
         //, publish = true
         , plugin = {"pretty",
-                    "html:target/cucumber-reports/cucumber-html-report.html",
+                    "html:reports/cucumber-html-report.html",
                     "json:target/cucumber-reports/cucumber-json-report.json"}
         )
 @Test
