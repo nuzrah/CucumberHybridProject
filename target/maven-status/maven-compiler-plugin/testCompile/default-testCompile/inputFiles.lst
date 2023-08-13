@@ -1,5 +1,5 @@
-/home/nuzrah/Documents/Projects/LocalRepos/CucumberHybridProject/src/test/java/runner/TestRunner.java
-/home/nuzrah/Documents/Projects/LocalRepos/CucumberHybridProject/src/test/java/hooks/Hooks.java
-/home/nuzrah/Documents/Projects/LocalRepos/CucumberHybridProject/src/test/java/stepdefinitions/LoginTest.java
-/home/nuzrah/Documents/Projects/LocalRepos/CucumberHybridProject/src/test/java/base/DriverManager.java
-/home/nuzrah/Documents/Projects/LocalRepos/CucumberHybridProject/src/test/java/stepdefinitions/RegisterTest.java
+/home/nuzrah/.jenkins/workspace/CucumberHybridDemoPipeline@2/src/test/java/stepdefinitions/LoginTest.java
+/home/nuzrah/.jenkins/workspace/CucumberHybridDemoPipeline@2/src/test/java/stepdefinitions/RegisterTest.java
+/home/nuzrah/.jenkins/workspace/CucumberHybridDemoPipeline@2/src/test/java/base/DriverManager.java
+/home/nuzrah/.jenkins/workspace/CucumberHybridDemoPipeline@2/src/test/java/runner/TestRunner.java
+/home/nuzrah/.jenkins/workspace/CucumberHybridDemoPipeline@2/src/test/java/hooks/Hooks.java
