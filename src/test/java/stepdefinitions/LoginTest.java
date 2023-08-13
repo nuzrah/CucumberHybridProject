@@ -105,7 +105,7 @@ public class LoginTest {
     @Then("User is prompted with a Warning Message related to Required Fields being empty")
     public void userIsPromptedWithAWarningMessageRelatedToRequiredFieldsBeingEmpty() {
         actualWarningMessage = loginModal.getWarningMessageForRequiredFieldsEmpty();
-        expectedWarningMessage = "  Required Fields are Empty";
+        expectedWarningMessage = "  Required Fields are Empty ";
         Assert.assertEquals(actualWarningMessage,expectedWarningMessage,"\nExpected error message: |"+expectedWarningMessage+"| \nActual error message  : |"+actualWarningMessage+"|\n");
         //Assert.assertEquals("\nExpected error message: |"+expectedWarningMessage+"| \nActual error message  : |"+actualWarningMessage+"|\n",expectedWarningMessage,actualWarningMessage);
     }
