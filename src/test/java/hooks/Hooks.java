@@ -28,8 +28,8 @@ public class Hooks {
         Properties prop = new PropertyReader().initializeProperties();
 
         DriverManager driverManager = new DriverManager();
-        driverManager.initializeBrowser(prop.getProperty("browser.name"));
-        //driverManager.initializeBrowser(System.getProperty("browser"));
+        //driverManager.initializeBrowser(prop.getProperty("browser.name"));
+        driverManager.initializeBrowser(System.getProperty("browser"));
 
 
         //driverManager.initializeBrowser(prop.getProperty("config", "browser.name"));
