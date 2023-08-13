@@ -1,5 +1,5 @@
-/home/nuzrah/Documents/Projects/CucumberBDDHybrid/src/test/java/stepdefinitions/LoginTest.java
-/home/nuzrah/Documents/Projects/CucumberBDDHybrid/src/test/java/runner/TestRunner.java
-/home/nuzrah/Documents/Projects/CucumberBDDHybrid/src/test/java/stepdefinitions/RegisterTest.java
-/home/nuzrah/Documents/Projects/CucumberBDDHybrid/src/test/java/base/DriverManager.java
-/home/nuzrah/Documents/Projects/CucumberBDDHybrid/src/test/java/hooks/Hooks.java
+/home/nuzrah/Documents/Projects/LocalRepos/CucumberHybridProject/src/test/java/runner/TestRunner.java
+/home/nuzrah/Documents/Projects/LocalRepos/CucumberHybridProject/src/test/java/hooks/Hooks.java
+/home/nuzrah/Documents/Projects/LocalRepos/CucumberHybridProject/src/test/java/stepdefinitions/LoginTest.java
+/home/nuzrah/Documents/Projects/LocalRepos/CucumberHybridProject/src/test/java/base/DriverManager.java
+/home/nuzrah/Documents/Projects/LocalRepos/CucumberHybridProject/src/test/java/stepdefinitions/RegisterTest.java
